@@ -14,5 +14,5 @@
 3. Open the 'index.html' file in a web browser.
 
 
--GIF 
+## GIF 
 <img src="amazon.gif"/>
